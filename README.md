@@ -39,8 +39,7 @@ Here are some of the projects I've been working on:
 
 ## Connect with Me!
 
-<a href="https://www.linkedin.com/in/ferryfernandoo" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:ferynndaru@gmail.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ferryfernandoo" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="LinkedIn" height="50" width="45" /></a>
+<a href="mailto:ferynndaru@gmail.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" height="50" width="45" /></a> <a href="https://www.instagram.com/ferynnd" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="Instagram" height="50" width="45" /></a>
 ---
 
-<img align="center" src="https://github.com/ferynnd/ferynnd/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
