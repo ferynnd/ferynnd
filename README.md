@@ -31,7 +31,9 @@ Here are some of the projects I've been working on:
 | SMART UMKM API | Backend API powering the SMART UMKM mobile apps. | Laravel | [GitHub](https://github.com/ferynnd/SMART_UMKM_API) |
 | Market Spare | Desktop POS application for spare part management. | Java, Netbeans | [GitHub](https://github.com/ferynnd/MarketSpare) |
 | Portofolio ViteReact | Portfolio website. | Vite, React, Shdcn | [GitHub](https://github.com/ferynnd/portofolio-vite) |
-| Breze Portofolio | Laravel portfolio with content management for articles/blogs. | Laravel | [GitHub](https://github.com/ferynnd/brezePortofolio) |
+| Portofolio Laravel Breze | Laravel portfolio with content management for articles/blogs. | Laravel | [GitHub](https://github.com/ferynnd/brezePortofolio) |
+| AgroPupuk | AGROPUPUK is a comprehensive web-based platform designed to provide valuable insights into the world of agriculture, with a special focus on fertilizers. | Laravel | [GitHub](https://github.com/hamdaniqhmqd/AgroPupuk) |
+
 
 </div>
 
