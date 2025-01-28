@@ -1,8 +1,8 @@
-# Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://github.com/ferynnd)
+# Hi, World! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://github.com/ferynnd)
 
 ---
 
-<h5 align="center">Saya adalah mahasiswa Teknologi Informasi Politeknik Negeri Madiun dengan minat di Web & Mobile Development, UI/UX Design, dan Network Engineering. Terampil menganalisis masalah dan merancang solusi dengan Visual Studio Code, Android Studio, Figma </h5>
+<h5 align="center">Saya mahasiswa Teknologi Informasi Politeknik Negeri Madiun dengan minat di Web & Mobile Development, UI/UX Design, dan Network Engineering. Terampil menganalisis masalah dan merancang solusi dengan Visual Studio Code, Android Studio, Figma </h5>
 
 ---
 
@@ -37,13 +37,11 @@ Here are some of the projects I've been working on:
 
 <br>
 ---
----
 
-##  Connect with Me!
+## Connect with Me!
 
-<a href="https://www.linkedin.com/in/ferryfernandoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/ferynnd/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:ferynndaru@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ferynnd/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/ferryfernandoo" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:ferynndaru@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/gmail_5968534?term=gmail&page=1&position=4&origin=search&related_id=5968534" alt="Gmail" height="30" width="40" /></a>
 ---
 
 <img align="center" src="https://github.com/ferynnd/ferynnd/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
