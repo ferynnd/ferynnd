@@ -36,12 +36,11 @@ Here are some of the projects I've been working on:
 </div>
 
 <br>
----
 
 ## Connect with Me!
 
-<a href="https://www.linkedin.com/in/ferryfernandoo" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:ferynndaru@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/gmail_5968534?term=gmail&page=1&position=4&origin=search&related_id=5968534" alt="Gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ferryfernandoo" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_174857" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:ferynndaru@gmail.com" target="blank"><img align="center" src="https://www.freepik.com/icons/gmail" alt="Gmail" height="30" width="40" /></a>
 ---
 
 <img align="center" src="https://github.com/ferynnd/ferynnd/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
