@@ -1,9 +1,9 @@
-# Hi, World! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://github.com/ferynnd)
+# Ngoding Dulu, Jogo Mah Belakangan🤣! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://github.com/ferynnd)
 
 ---
-
-<p align="start">Saya mahasiswa Teknologi Informasi Politeknik Negeri Madiun dengan minat di Web & Mobile Development, UI/UX Design, dan Network Engineering. Terampil menganalisis masalah dan merancang solusi dengan Visual Studio Code, Android Studio, Figma </p>
-
+<p align="center">
+  <b>Engineer 🚀 | IT Students 💻 | Tech Enthusiast 💡</b>
+</p>
 ---
 
 ##  Github Stats
@@ -21,29 +21,6 @@
 </picture>
 
 ---
-
-## ️ Projects ✨
-
-Here are some of the projects I've been working on:
-
-<br>
-
-<div align="center">
-
-| Project | Description | Tech Stack | GitHub |
-|---|---|---|---|
-| SMART UMKM (Admin) | Mobile POS application for UMKM businesses. | Kotlin, Android Studio | [GitHub](https://github.com/ferynnd/SMART_UMKM) |
-| SMART UMKM (User) | User-facing app for SMART UMKM, for processing sales. | Kotlin, Android Studio | [GitHub](https://github.com/ferynnd/SMART_UMKM_USER) |
-| SMART UMKM API | Backend API powering the SMART UMKM mobile apps. | Laravel | [GitHub](https://github.com/ferynnd/SMART_UMKM_API) |
-| Market Spare | Desktop POS application for spare part management. | Java, Netbeans | [GitHub](https://github.com/ferynnd/MarketSpare) |
-| Portofolio ViteReact | Portfolio website. | Vite, React, Shdcn | [GitHub](https://github.com/ferynnd/portofolio-vite) |
-| Portofolio Laravel Breze | Laravel portfolio with content management for articles/blogs. | Laravel | [GitHub](https://github.com/ferynnd/brezePortofolio) |
-| AgroPupuk | AGROPUPUK is a comprehensive web-based platform designed to provide valuable insights into the world of agriculture, with a special focus on fertilizers. | Laravel | [GitHub](https://github.com/hamdaniqhmqd/AgroPupuk) |
-
-
-</div>
-
-<br>
 
 ## Connect with Me!
 
