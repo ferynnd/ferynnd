@@ -2,7 +2,7 @@
 
 ---
 
-<h5 align="center">Saya mahasiswa Teknologi Informasi Politeknik Negeri Madiun dengan minat di Web & Mobile Development, UI/UX Design, dan Network Engineering. Terampil menganalisis masalah dan merancang solusi dengan Visual Studio Code, Android Studio, Figma </h5>
+<h5 align="start">Saya mahasiswa Teknologi Informasi Politeknik Negeri Madiun dengan minat di Web & Mobile Development, UI/UX Design, dan Network Engineering. Terampil menganalisis masalah dan merancang solusi dengan Visual Studio Code, Android Studio, Figma </h5>
 
 ---
 
