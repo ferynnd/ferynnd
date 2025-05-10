@@ -8,10 +8,10 @@
 
 ##  Github Stats
 
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferynnd&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true" alt="ferynnd's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferynnd&langs_count=8&layout=compact&hide_border=true&theme=algolia" alt="ferynnd's Most Used Language">
+| <img align="center" width="320px" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferynnd&theme=blueberry)" alt="ferynnd's GitHub Stats"> | <img align="center" width="295px" src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferynnd&theme=blueberry)" alt="ferynnd's Most Used Language">
 | ------------- | ------------- |
 
-| <img align="center" width="640px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferynnd&theme=algolia" alt="Feryn's GitHub Contribution">
+| <img align="center" width="640px" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferynnd&theme=blueberry)" alt="Feryn's GitHub Contribution">
 | ------------- |
 
 ---
