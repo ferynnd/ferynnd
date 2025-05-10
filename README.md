@@ -1,4 +1,4 @@
-# Ngoding Dulu, Jago Mah Belakangan🤣! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://github.com/ferynnd)
+# Ngoding Dulu, Jago Mah Belakangan🤣
 
 ---
 <p align="start">
