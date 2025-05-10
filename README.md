@@ -5,8 +5,6 @@
   <b>Engineer 🚀 | IT Students 💻 | Tech Enthusiast 💡</b>
 </p>
 
-##  Github Stats
-
 | <img align="center" width="320px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferynnd&theme=blueberry" alt="ferynnd's GitHub Stats"> | <img align="center" width="295px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferynnd&theme=blueberry" alt="ferynnd's Most Used Language">
 | ------------- | ------------- |
 
