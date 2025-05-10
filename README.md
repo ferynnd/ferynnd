@@ -8,10 +8,10 @@
 
 ##  Github Stats
 
-| <img align="center" width="320px" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferynnd&theme=blueberry)" alt="ferynnd's GitHub Stats"> | <img align="center" width="295px" src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferynnd&theme=blueberry)" alt="ferynnd's Most Used Language">
+| <img align="center" width="320px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferynnd&theme=blueberry" alt="ferynnd's GitHub Stats"> | <img align="center" width="295px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferynnd&theme=blueberry" alt="ferynnd's Most Used Language">
 | ------------- | ------------- |
 
-| <img align="center" width="640px" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferynnd&theme=blueberry)" alt="Feryn's GitHub Contribution">
+| <img align="center" width="640px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferynnd&theme=blueberry" alt="Feryn's GitHub Contribution">
 | ------------- |
 
 ---
